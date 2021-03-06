@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/floor-care/static/css/main.3804d029.chunk.css",
+    "main.js": "/floor-care/static/js/main.33d42b78.chunk.js",
+    "main.js.map": "/floor-care/static/js/main.33d42b78.chunk.js.map",
+    "runtime-main.js": "/floor-care/static/js/runtime-main.d0e7d37a.js",
+    "runtime-main.js.map": "/floor-care/static/js/runtime-main.d0e7d37a.js.map",
+    "static/css/2.9b5596ce.chunk.css": "/floor-care/static/css/2.9b5596ce.chunk.css",
+    "static/js/2.34efbc05.chunk.js": "/floor-care/static/js/2.34efbc05.chunk.js",
+    "static/js/2.34efbc05.chunk.js.map": "/floor-care/static/js/2.34efbc05.chunk.js.map",
+    "static/js/3.536e80b3.chunk.js": "/floor-care/static/js/3.536e80b3.chunk.js",
+    "static/js/3.536e80b3.chunk.js.map": "/floor-care/static/js/3.536e80b3.chunk.js.map",
+    "index.html": "/floor-care/index.html",
+    "static/css/2.9b5596ce.chunk.css.map": "/floor-care/static/css/2.9b5596ce.chunk.css.map",
+    "static/css/main.3804d029.chunk.css.map": "/floor-care/static/css/main.3804d029.chunk.css.map",
+    "static/js/2.34efbc05.chunk.js.LICENSE.txt": "/floor-care/static/js/2.34efbc05.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/floor-care/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/index.css": "/floor-care/static/media/open-sans-latin-800italic.b5bc2661.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0e7d37a.js",
+    "static/css/2.9b5596ce.chunk.css",
+    "static/js/2.34efbc05.chunk.js",
+    "static/css/main.3804d029.chunk.css",
+    "static/js/main.33d42b78.chunk.js"
+  ]
+}
